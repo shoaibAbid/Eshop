@@ -9,11 +9,11 @@
   <h1>Welcome to Our eShopping Website</h1>
   
   <h2>Screenshots</h2>
-<h2>Screenshots</h2>
+
 <div>
-  <img src="Pics/Screenshot(670).png" alt="Screenshot 1">
-  <img src="Pics/Screenshot(671).png" alt="Screenshot 2">
-  <img src="Pics/Screenshot(672).png" alt="Screenshot 3">
+  <img src="Pics/a1.png" alt="Screenshot 1">
+  <img src="Pics/a2.png" alt="Screenshot 2">
+  <img src="Pics/a3.png" alt="Screenshot 3">
   <!-- Add more screenshots as needed, e.g., Pics/screenshot4.png -->
 </div>
 
